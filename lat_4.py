@@ -1,0 +1,3 @@
+#program mencetak teks selamat datang sebanyak 100 
+for i in range(100):
+    print("selamat datang!")
